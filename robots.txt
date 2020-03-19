@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahvitoseig.casjay.tel/sitemap.xml
